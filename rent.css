@@ -4,6 +4,10 @@ body{
  justify-content:center;
   
 }
+img{
+  width:200px;
+
+}
 button{
   background-color: #4CAF50; /* Green */
   border: none;
@@ -14,8 +18,5 @@ button{
   display: inline-block;
   font-size: 20px;
   margin: 5px;
-}
-img{
-  width:200px;
-
+  border-radius: 10px;
 }
