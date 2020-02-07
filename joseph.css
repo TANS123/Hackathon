@@ -19,6 +19,6 @@ button{
   margin: 5px;
   border-radius: 10px;
 }
-.answer{
+.answer, .answer2, .answer3{
   color:red;
 }
