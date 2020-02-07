@@ -2,12 +2,11 @@ body{
  display:flex;
  flex-direction:column;
  text-align: center;
- background-color: teal;
  font-family: 'Oswald', sans-serif;
 }
 button{
-  background-color: white; 
-  color: black;
+  background-color: #4CAF50; 
+  color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -15,7 +14,7 @@ button{
   font-size: 20px;
   margin: 5px;
   border-radius: 10px;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 a{
   text-decoration: none;
@@ -26,6 +25,9 @@ a{
   display:block;
   margin-left:auto;
   margin-right:auto;
-  background-color: #FF9E2B;
+  background-image: url("https://image.freepik.com/free-vector/big-modern-city-skyscraper-panoramic-view_48369-21849.jpg");
   color:white;
+}
+.character1{
+  background-image: url("https://image.freepik.com/free-vector/group-black-family-members-characters_24911-54036.jpg");
 }
