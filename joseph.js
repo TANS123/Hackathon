@@ -1,6 +1,4 @@
-$(document).ready(function(){
-$(".answer").hide();
-  $("dish").click(function(){
-    $(".answer").show();
-  });
+$("#dish").click(function(){
+  console.log("clicked");
+ $(".answer").text("Hello world!");
 });
