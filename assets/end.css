@@ -1,0 +1,20 @@
+body {background-color:red;}
+.hide{
+   color: blue;}
+.facts{
+   font-family: 'Lobster', cursive;
+ 
+}
+.facts{
+ display: flex;
+ justify-content: space-around;
+}
+.facts {
+ display: flex;
+ justify-content: space-between;
+}
+.img{
+    width: 50px;
+width: 50%;
+font-size: 20px;
+}
