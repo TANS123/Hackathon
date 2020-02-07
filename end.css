@@ -8,13 +8,9 @@ body {background-color:red;}
 .facts{
  display: flex;
  justify-content: space-around;
+}. 
+.row{
+  height: 100px;
+  width: 40%;
 }
-.facts {
- display: flex;
- justify-content: space-between;
-}
-.img {
-  width: 100%;
-  height: auto;
-}
- 
+
